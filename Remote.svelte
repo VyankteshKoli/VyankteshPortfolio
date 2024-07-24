@@ -8,7 +8,7 @@
     gotoChannel,
     toggleContent,
     toggleSpace,
-  } from '../modules/tv.js';
+  } from 'tv.js';
 </script>
 
 <style lang="postcss">
@@ -26,7 +26,7 @@
 
     @nest :global(body[space]) & {
       /* set the image only in space mode */
-      --plastic-texture-img: url(/assets/images/plastic-texture-noise.png);
+      --plastic-texture-img: url(plastic-texture-noise.png);
     }
 
     @media (max-height: 800px) {
@@ -146,7 +146,7 @@
   }
 
   button {
-    cursor: url(/assets/images/cursor-pointer.png) 14 8, auto;
+    cursor: url(cursor-pointer.png) 14 8, auto;
     width: 100%;
     height: 25px;
     border: 0px solid #222;
@@ -275,7 +275,7 @@
         <div class="brand">
           <img
             loading="lazy"
-            src="/assets/images/kiwivision.svg"
+            src="kiwivision.svg"
             alt="kiwivision"
             width="103"
             height="10" />
