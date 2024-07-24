@@ -1,4 +1,4 @@
-import './styles/main/main.css';
+import 'main.css';
 
 import TVScreen from 'Screen.svelte';
 import Remote from 'Remote.svelte';
