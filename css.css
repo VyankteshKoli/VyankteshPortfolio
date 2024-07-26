@@ -852,7 +852,7 @@ body:not([camera]) .rec-wrapper.svelte-60jbj3.svelte-60jbj3 {
     justify-content: space-between;
     align-items: flex-end;
     align-self: flex-end;
-    margin-top: 80px;
+    margin-top: 100px;
     padding-bottom: 2.94117647059rem;
     padding-bottom: var(--gui-bottom);
 }
