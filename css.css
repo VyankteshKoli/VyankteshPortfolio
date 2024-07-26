@@ -847,6 +847,16 @@ body:not([camera]) .rec-wrapper.svelte-60jbj3.svelte-60jbj3 {
     user-select: none
 }
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    align-self: flex-end;
+    margin-top: 80px;
+    padding-bottom: 2.94117647059rem;
+    padding-bottom: var(--gui-bottom);
+}
+
 body:not([space]) .perspective.svelte-1vrpccc.svelte-1vrpccc {
     display: none
 }
