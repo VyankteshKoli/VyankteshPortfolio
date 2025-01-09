@@ -9,7 +9,6 @@ export const LOADING_STATE = {
   Done: 2,
 };
 
-// used for toggling
 let prevVolume = null;
 
 export const tvEl = document.querySelector('.js-tv');
