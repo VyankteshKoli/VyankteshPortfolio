@@ -4,7 +4,7 @@
 }
 
 .button-text {
-  /** for backwards compatibility */
+  
   font-family: inherit;
   color: inherit;
   text-decoration: inherit;
@@ -13,10 +13,8 @@
   text-transform: inherit;
   text-shadow: inherit;
 
-  /* copy style from parent */
   all: inherit;
 
-  /* overrides */
   padding: 0;
   border: none;
   display: inline;
@@ -35,10 +33,6 @@ a,
   background-size: 90% 0;
   background-repeat: no-repeat;
 
-  /*
-   * gotta put this not here because otherwise it loads
-   * the image before running the support script
-   */
   @nest html:not(.webp) & {
     background-image: url(rainbow-static.gif);
   }
