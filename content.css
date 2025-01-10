@@ -66,6 +66,8 @@ a,
     transition: none;
   }
 
+  
+
   &:focus {
     outline: none;
     background-size: 100% 100%;
