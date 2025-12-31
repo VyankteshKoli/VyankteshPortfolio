@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m Vyanktesh, pursuing CSE (AIML) and interested in Android App Development & Java Full Stack.<br>📫 How to reach me: LinkedIn - @vyanktesh-koli<br>😄 Pronouns: He/His
+🔭 Hi, I’m Vyanktesh, currently pursuing CSE (AIML).
+💻 I’m passionate about Android App Development and Java Full-Stack Development.
+🚀 I enjoy building practical projects. 
 
 
 ## 🌐 Socials:
