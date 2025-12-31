@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 Hi, I’m Vyanktesh, currently pursuing CSE (AIML).
+
 💻 I’m passionate about Android App Development and Java Full-Stack Development.
+
 🚀 I enjoy building practical projects. 
 
 
